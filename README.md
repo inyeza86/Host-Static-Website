@@ -1,6 +1,5 @@
 ![Alt text](/Host_a_Static_Website_on_AWS (1).png)
 
----
 
 # Hosting a Static Website on AWS
 
@@ -128,7 +127,6 @@ systemctl start httpd
 ## Conclusion
 By following the instructions above and using the scripts provided in this repository, you will be able to successfully host a static HTML website on AWS using a highly available, secure, and scalable infrastructure.
 
----
 
 
 
